@@ -7,4 +7,4 @@ Next Level Week 1.0
 
 
 
-![alt text](http://url/to/index.png)
+![alt text](index.png)
